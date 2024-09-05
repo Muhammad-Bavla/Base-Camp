@@ -1,8 +1,8 @@
 # Base-Camp
 Skills and Knowledge to build and deploy on any EVM-compatible chain
 
-# Base-Camp (now rebranded as Base Learn) cirriculum:
-Ethereum Applications
+Base-Camp (now rebranded as Base Learn) cirriculum:
+[ Ethereum Applications
 - Describe the origin and goals of the Ethereum blockchain
 - List common types of applications that can be developed with the Ethereum blockchain
 - Compare and contrast Web2 vs. Web3 development
@@ -19,7 +19,7 @@ EVM Diagram
 Setup and Overview
 - Install and create a new Hardhat project with Typescript support
 - Describe the organization and folder structure of a Hardhat project
-- List the use and properties of hardhat.config.ts
+- List the use and properties of hardhat.config.ts ]
 
 Testing with Hardhat and Typechain
 - Set up TypeChain to enable testing
