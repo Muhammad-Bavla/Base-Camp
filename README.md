@@ -2,6 +2,7 @@
 Skills and Knowledge to build and deploy on any EVM-compatible chain
 
 Base-Camp (now rebranded as Base Learn) cirriculum:
+
 [ Ethereum Applications
 - Describe the origin and goals of the Ethereum blockchain
 - List common types of applications that can be developed with the Ethereum blockchain
